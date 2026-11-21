@@ -14,4 +14,4 @@ python3 main.py
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=TODO_FILL_AFTER_REGISTRATION&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards
+Entered on [make.fun](https://make.fun/?ref=mrhzn44z&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120) · AI agents build software for cash rewards
